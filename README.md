@@ -37,6 +37,6 @@ guest-list-manager/
 
 1. Clone or download this repo:
    ```bash
- https://github.com/EvaArbo/Code-Challenge--2/edit/master/README.md
+ https://github.com/EvaArbo/Code-Challenge--2
 
 
